@@ -3,7 +3,7 @@ title: "Info About The Club"
 # weight: 1
 # aliases: ["/first"]
 tags: ["about"]
-author: "Me"
+author: "Dakota"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
