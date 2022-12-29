@@ -15,8 +15,8 @@
 #theme = "ananke"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
-baseurl = "https://pages.gitlab.io/hugo/"
-title = "GitLab Pages and Hugo"
+baseurl = "https://daytongo.club"
+title = "Dayton Ohio Go Club"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
@@ -55,5 +55,5 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
-name = "twitter"
+name = "OGS"
 url = "https://twitter.com/GoHugoIO"
