@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Dayton Ohio Go Club
-    subtitle: "A local club playing the ancient game of Go!"
+    subtitle: "A local club playing the ancient game of Go. If you are interested in playing, take a look at our Club Info page for more details!"
     imageUrl: "game.jpg"
     imageWidth: 300
     imageHeight: 300
@@ -96,7 +96,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://gitlab.com/dakota.marshall/daytongo.club/-/tree/master/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
