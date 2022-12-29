@@ -42,6 +42,7 @@ Current as of `2022-12-29`
 We are meeting every First and Third Sunday of the month. We meet on the 2nd floor of the Dayon Metro Library - Main Branch, from 1:30PM to about 4:30PM. For more realtime info on cancellations, or extra meetups, I highly encourage you to hop in the Discord. I also use our [Baduk.club](https://baduk.club/club/daytonoh) page for info aswell, I encourage you to join there if you havent already!
 
 {{< mapsiframe >}}
+
 ## Get in Touch
 
 Here are some ways you can get in contact with the club if you have questions:
