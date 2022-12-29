@@ -62,27 +62,27 @@ params:
     title: Dayton Ohio Go Club
     subtitle: "A local club playing the ancient game of Go!"
     imageUrl: "https://media.discordapp.net/attachments/1049099852543430676/1049100063013609603/PXL_20221204_211432167.jpg?width=704&height=530"
-    imageWidth: 400
-    imageHeight: 400
+    imageWidth: 300
+    imageHeight: 300
     imageTitle: Game
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      # - name: Posts
+      #   url: posts
+      # - name: Tags
+      #   url: tags
 
   # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+  # homeInfoParams:
+  #   Title: "Hi there \U0001F44B"
+  #   Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+    - name: online-go
+      url: "https://online-go.com/group/12328"
+    - name: Baduk.club
+      url: "https://baduk.club/club/daytonoh"
+    - name: Discord
+      url: "https://discord.gg/hs3PSUbvWT"
 
   analytics:
     google:
@@ -114,9 +114,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: Discord
+      name: Discord
+      url: https://discord.gg/hs3PSUbvWT
       weight: 10
     - identifier: tags
       name: tags
