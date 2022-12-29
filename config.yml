@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Dayton Ohio Go Club
     subtitle: "A local club playing the ancient game of Go!"
-    imageUrl: "https://photos.app.goo.gl/BQohkgAqBJ6PxYZq7"
+    imageUrl: "https://photos.google.com/share/AF1QipPnm0VCUhqUcUxQkMMaWZGOoqjcIEW3JE-uL4rzI0D-HN0AVO8kelL0yyLPSf5RDA/photo/AF1QipN1E_t1iS1vnUUvxVyXwsdhNvpCZS4QKigVAanK?key=NFlvYmo3UFJxQ1FjWWJoNkY1OUtNVDRsR0lzTGhR"
     imageWidth: 300
     imageHeight: 300
     imageTitle: Game
