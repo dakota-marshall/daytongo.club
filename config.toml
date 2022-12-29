@@ -13,47 +13,34 @@
 # If your theme is in the themes directory, you just need to specify its name.
 #
 #theme = "ananke"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = ["github.com/RoneoOrg/hugo-remix-one-click-netlify-cms"]
 
-baseurl = "https://daytongo.club"
-title = "Dayton Ohio Go Club"
-contentdir    = "content"
-layoutdir     = "layouts"
-publishdir    = "public"
-languageCode = "en-us"
-resourceDir = "../resources"
+baseURL = 'https://daytongo.club'
+languageCode = 'en-us'
+defaultContentLanguage = 'en'
 
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
-
-[languages]
-  [languages.en]
-    title = "Ananke"
-    weight = 1
-    contentDir = "content/en"
-  [languages.fr]
-    title = "Ananke Fr"
-    weight = 2
-    contentDir = "content/fr"
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
 
 [params]
-  text_color = ""
-  author = ""
-  favicon = ""
-  site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  recent_posts_number = 3
+  title = 'Dayton Ohio Go Club'
+  metaDescription = "A Local Go (also known as Baduk) Club that meets up in the Dayton Ohio Area"
 
-[[params.ananke_socials]]
-name = "OGS"
-url = "https://twitter.com/GoHugoIO"
+
+# Languages
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+mark = "EN"
+
+[Languages.fr]
+languageName = "fr"
+languageCode = "fr-fr"
+contentDir = "content/fr"
+weight = 2
+mark = "FR"
+
+
+[taxonomies]
+  category= "theme"
+  scene = "scenes"
