@@ -58,13 +58,13 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    enabled: true # needs to be explicitly set
+    title: Dayton Ohio Go Club
+    subtitle: "A local club playing the ancient game of Go!"
+    imageUrl: "https://media.discordapp.net/attachments/1049099852543430676/1049100063013609603/PXL_20221204_211432167.jpg?width=704&height=530"
+    imageWidth: 400
+    imageHeight: 400
+    imageTitle: Game
     buttons:
       - name: Posts
         url: posts
@@ -122,10 +122,6 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
