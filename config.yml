@@ -61,8 +61,8 @@ params:
     enabled: true # needs to be explicitly set
     title: Dayton Ohio Go Club
     subtitle: "A local club playing the ancient game of Go!"
-    imageUrl: "https://media.discordapp.net/attachments/1049099852543430676/1049100063013609603/PXL_20221204_211432167.jpg?width=704&height=530"
-    imageWidth: 450
+    imageUrl: "https://photos.app.goo.gl/BQohkgAqBJ6PxYZq7"
+    imageWidth: 300
     imageHeight: 300
     imageTitle: Game
     buttons:
