@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Info About The Club"
 # weight: 1
 # aliases: ["/first"]
 tags: ["about"]
@@ -10,17 +10,17 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "About the Club"
+description: "Information Pertaining to the Club"
 canonicalURL: "https://daytongo.club/about"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
-hideSummary: false
+hideSummary: true
 searchHidden: true
 ShowReadingTime: false
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
-ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
@@ -29,8 +29,22 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
+
+## About the Organizer(s)
+
+Hey, Im Dakota. Currently I am the main and only Organizer for the Club. I am trying to facilitate our meetings and whatnot, if you have any questions, feel free to reach out to my directly, or on our Discord server!
+
+## When / Where We Meet
+
+Current as of `2022-12-29`
+
+We are meeting every First and Third Sunday of the month. We meet on the 2nd floor of the Dayon Metro Library - Main Branch, from 1:30PM to about 4:30PM.
+
+## Get in Touch
+
+Here are some ways you can get in contact with the club if you have questions:
+
+- Our [Discord Server](https://discord.gg/hs3PSUbvWT) (This is the best way to contact myself or anyone else in the club)
+- Our [OGS Page](https://online-go.com/group/12328)
+- Email me directly: [contact@daytongo.club](mailto://contact@daytongo.club)

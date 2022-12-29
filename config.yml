@@ -115,16 +115,13 @@ params:
 menu:
   main:
     - identifier: about
-      name: About The Club
+      name: Club Information
       url: about
+      weight: 1
     - identifier: Discord
       name: Discord
       url: https://discord.gg/hs3PSUbvWT
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
     - identifier: ogs
       name: OGS Page
       url: https://online-go.com/group/12328
