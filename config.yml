@@ -45,10 +45,10 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "favicon.ico"
-    favicon16x16: "favicon-16x16.png"
-    favicon32x32: "favicon-32x32.png"
-    apple_touch_icon: "apple-touch-icon.png"
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
   label:
@@ -77,12 +77,12 @@ params:
   #   Content: Welcome to my blog
 
   socialIcons:
-    - name: online-go
-      url: "https://online-go.com/group/12328"
-    - name: Baduk.club
-      url: "https://baduk.club/club/daytonoh"
-    - name: Discord
-      url: "https://discord.gg/hs3PSUbvWT"
+    # - name: online-go
+    #   url: "https://online-go.com/group/12328"
+    # - name: Baduk.club
+    #   url: "https://baduk.club/club/daytonoh"
+    # - name: Discord
+    #   url: "https://discord.gg/hs3PSUbvWT"
 
   analytics:
     google:
@@ -114,6 +114,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: about
+      name: About The Club
+      url: about
     - identifier: Discord
       name: Discord
       url: https://discord.gg/hs3PSUbvWT
@@ -122,6 +125,14 @@ menu:
       name: tags
       url: /tags/
       weight: 20
+    - identifier: ogs
+      name: OGS Page
+      url: https://online-go.com/group/12328
+      weight: 30
+    - identifier: badukclub
+      name: Baduk.club Page
+      url: https://baduk.club/club/daytonoh
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
