@@ -77,12 +77,10 @@ params:
   #   Content: Welcome to my blog
 
   socialIcons:
-    # - name: online-go
-    #   url: "https://online-go.com/group/12328"
-    # - name: Baduk.club
-    #   url: "https://baduk.club/club/daytonoh"
-    # - name: Discord
-    #   url: "https://discord.gg/hs3PSUbvWT"
+    - name: Discord
+      url: "https://discord.gg/hs3PSUbvWT"
+    - name: email
+      url: "mailto://contact@daytongo.club"
 
   analytics:
     google:
