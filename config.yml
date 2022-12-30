@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Dayton Ohio Go Club
   description: "A local club that gets together to play the ancient game of Go!"
-  keywords: [dayton, ohio, oh, go, baduk, club, group, meetup, weqi, igo, game, board game]
+  keywords: [dayton, ohio, oh, go, baduk, club, group, meetup, weqi, igo, game, board game, go club, club ohio, clubs in dayton ohio, dayton clubs, go dayton]
   author: Dakota
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
