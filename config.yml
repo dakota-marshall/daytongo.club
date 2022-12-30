@@ -21,7 +21,7 @@ params:
   keywords: [dayton, ohio, oh, go, baduk, club, group, meetup, weqi, igo, game, board game, go club, club ohio, clubs in dayton ohio, dayton clubs, go dayton]
   author: Dakota
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["https://daytongo.club/game.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: false
