@@ -17,8 +17,8 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Dayton Ohio Go Club
-  description: "A local club that gets together to play the ancient game of Go!"
-  keywords: [dayton, ohio, oh, go, baduk, club, group, meetup, weqi, igo, game, board game, go club, club ohio, clubs in dayton ohio, dayton clubs, go dayton]
+  description: "A local Dayton club that gets together to play the ancient game of Go / Baduk!"
+  keywords: [dayton, ohio, oh, go, baduk, club, group, meetup, weiqi, igo, game, board game, go club, club ohio, clubs in dayton ohio, dayton clubs, go dayton]
   author: Dakota
   # author: ["Me", "You"] # multiple authors
   images: ["https://daytongo.club/game.jpg"]
@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Dayton Ohio Go Club
-    subtitle: "We are a local club playing the ancient game of Go. If you are interested in playing, take a look at our Club Info page for more details! We are open to new and experienced players alike!"
+    subtitle: "We are a local club in Dayton playing the ancient game of Go, Also known as Baduk. If you are interested in playing, take a look at our Club Info page for more details! We are open to new and experienced players alike!"
     imageUrl: "game.jpg"
     imageWidth: 300
     imageHeight: 300
