@@ -79,6 +79,8 @@ params:
   socialIcons:
     - name: Discord
       url: "https://discord.gg/hs3PSUbvWT"
+    - name: Facebook
+      url: "https://www.facebook.com/profile.php?id=100089132774762"
     - name: email
       url: "mailto://contact@daytongo.club"
 
