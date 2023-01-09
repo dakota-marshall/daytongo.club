@@ -50,3 +50,4 @@ Here are some ways you can get in contact with the club if you have questions:
 - Our [Discord Server](https://discord.gg/hs3PSUbvWT) (This is the best way to contact myself or anyone else in the club)
 - Our [OGS Page](https://online-go.com/group/12328)
 - Email me directly: [contact@daytongo.club](mailto://contact@daytongo.club)
+- We also have a [Facebook Page](https://www.facebook.com/profile.php?id=100089132774762) that list events and whatnot!

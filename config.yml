@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Dayton Ohio Go Club
-    subtitle: "A local club playing the ancient game of Go. If you are interested in playing, take a look at our Club Info page for more details!"
+    subtitle: "We are a local club playing the ancient game of Go. If you are interested in playing, take a look at our Club Info page for more details! We are open to new and experienced players alike!"
     imageUrl: "game.jpg"
     imageWidth: 300
     imageHeight: 300
