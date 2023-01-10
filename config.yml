@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Dayton Ohio Go Club
   description: "A local Dayton club that gets together to play the ancient game of Go / Baduk!"
-  keywords: [dayton, ohio, oh, go, baduk, club, group, meetup, weiqi, igo, game, board game, go club, club ohio, clubs in dayton ohio, dayton clubs, go dayton]
+  keywords: [dayton, ohio, oh, go, baduk, club, group, meetup, weiqi, igo, game, board game, go club, club ohio, clubs in dayton ohio, dayton clubs, go dayton, go club dayton]
   author: Dakota
   # author: ["Me", "You"] # multiple authors
   images: ["https://daytongo.club/game.jpg"]
