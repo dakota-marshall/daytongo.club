@@ -51,7 +51,10 @@ Black and White stones being placed onto a board with infinite possibilities, en
 
 ### Go is often used as an analogy for life itself.
 
-Many people have drawn analogies between Go and our life, and have derived a lot of meaning from the game. For example, here is a [TEDx talk](https://www.youtube.com/watch?v=wQuh9YI8rn0) about Go being a guide to modern life. Some regard Go as such a universally fundamental game that there is a saying: "The rules of go are so elegant, organic, and rigorously logical that if intelligent life forms exist elsewhere in the universe, they almost certainly play go." -- Edward Lasker. 
+Many people have drawn analogies between Go and our life, and have derived a lot of meaning from the game. For example, here is a [TEDx talk](https://www.youtube.com/watch?v=wQuh9YI8rn0) about Go being a guide to modern life. Some regard Go as such a universally fundamental game that there is a saying: 
+
+> The rules of go are so elegant, organic, and rigorously logical that if intelligent life forms exist elsewhere in the universe, they almost certainly play go. 
+> -- Edward Lasker. 
 
 
 
