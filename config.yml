@@ -118,6 +118,10 @@ menu:
       name: Club Information
       url: about
       weight: 1
+    - identifier: whatisgo
+      name: What is Go?
+      url: whatisgo
+      weight: 4
     - identifier: events
       name: Events / Other Clubs
       url: events
