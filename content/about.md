@@ -37,10 +37,14 @@ Hey, Im Dakota. Currently I am the main and only Organizer for the Club. I am tr
 
 ## When / Where We Meet
 
-Current as of `2022-12-29`
+Current as of `2023-03-05`
 
-We are meeting every First and Third Sunday of the month. We meet on the 2nd floor of the Dayon Metro Library - Main Branch, from 1:30PM to about 4:30PM. For more realtime info on cancellations, or extra meetups, I highly encourage you to hop in the Discord. I also use our [Baduk.club](https://baduk.club/club/daytonoh) page for info aswell, I encourage you to join there if you havent already!
+We are meeting every First and Third Sunday of the month. On the first Sunday of the month, we meet at D20: A Bar With Characters On the third Sunday, We meet on the 2nd floor of the Dayon Metro Library - Main Branch. Both are from 1:30PM to about 4:30PM. For more realtime info on cancellations, or extra meetups, I highly encourage you to hop in the Discord. I also use our [Baduk.club](https://baduk.club/club/daytonoh) page for info aswell, I encourage you to join there if you havent already!
 
+### D20: A Bar With Characters
+{{< d20maps >}}
+
+### Dayton Library
 {{< mapsiframe >}}
 
 ## Get in Touch

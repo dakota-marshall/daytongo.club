@@ -118,6 +118,10 @@ menu:
       name: Club Information
       url: about
       weight: 1
+    - identifier: Discord
+      name: Discord
+      url: https://discord.gg/hs3PSUbvWT
+      weight: 2
     - identifier: whatisgo
       name: What is Go?
       url: whatisgo
@@ -126,10 +130,6 @@ menu:
       name: Events / Other Clubs
       url: events
       weight: 5
-    - identifier: Discord
-      name: Discord
-      url: https://discord.gg/hs3PSUbvWT
-      weight: 10
     - identifier: ogs
       name: OGS Page
       url: https://online-go.com/group/12328
