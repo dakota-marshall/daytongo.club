@@ -83,6 +83,8 @@ params:
       url: "https://www.facebook.com/daytongoclub"
     - name: email
       url: "mailto://contact@daytongo.club"
+    - name: mastodon
+      url: https://noc.social/@diobolic
 
   analytics:
     google:
