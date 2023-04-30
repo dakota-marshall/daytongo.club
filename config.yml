@@ -81,6 +81,8 @@ params:
       url: "https://discord.gg/hs3PSUbvWT"
     - name: Facebook
       url: "https://www.facebook.com/daytongoclub"
+    - name: instagram
+      url: "https://www.instagram.com/daytongoclub/"
     - name: email
       url: "mailto://contact@daytongo.club"
     # - name: mastodon
@@ -88,7 +90,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-K7HCF1SQ0F"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
