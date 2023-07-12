@@ -38,7 +38,7 @@ cover:
 - [The Cincinnati Go Club](https://www.cincinnatigoclub.org/)
 - [The Mason Go Club](https://baduk.club/club/1626455437879x168046661292523520)
 
-More clubs can be found at [baduk.club](https://baduk.club), or the [AGA official listings](https://www.usgo.org/where-play-go?state=OH) website!
+More clubs can be found at [baduk.club](https://baduk.club), The Midwest Go Association [Discord](https://discord.gg/cNVBntfaxF) or the [AGA official listings](https://www.usgo.org/where-play-go?state=OH) website!
 
 ## Baduk.club Local Tournament Listings
 
