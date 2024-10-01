@@ -33,11 +33,11 @@ cover:
 
 ## About the Organizer(s)
 
-Hey, Im Dakota. Currently I am the main and only Organizer for the Club. I am trying to facilitate our meetings and whatnot, if you have any questions, feel free to reach out to my directly, or on our Discord server!
+Hey, Im Dakota. I started the Dayton Go Club! Currently I am one of the three Organizers for the Club. Josh (OctopodesTitan on Discord) and Ian (bluemasterelf on Disocrd) are the other two current club organizers. If you have any questions, feel free to reach out to one of us directly, or on our Discord server and we'll be happy to help!
 
 ## When / Where We Meet
 
-Current as of `2023-07-12`
+Current as of `2024-10-01`
 
 We are meeting every First and Third Sunday of the month. at D20: A Bar With Characters from 1:30PM to about 4:30PM. For more realtime info on cancellations, or extra meetups, I highly encourage you to hop in the Discord. I also use our [Baduk.club](https://baduk.club/club/daytonoh) page for info aswell, I encourage you to join there if you havent already!
 
